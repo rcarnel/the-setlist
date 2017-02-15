@@ -26,6 +26,7 @@ To propose a song simply declare its title and where in the setlist it should be
 If no-one objects write it onto the setlist in pencil. Add your character's initials or name next to the track.
 
 Any other player may ask the following questions:
+
 1. "Why?" in which case you must explain why the song is important
 1. "How does that go?" in which case you must describe the song
 
